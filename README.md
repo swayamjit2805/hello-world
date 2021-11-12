@@ -1,6 +1,6 @@
-# hello-world
-introduction
+
 Hello GITHUB
 
-I am new to github.i am a first year student
-i am enrolled in electrical engineering
+I am new to github.
+I am a second year student
+I am enrolled in electrical engineering.
